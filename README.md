@@ -9,5 +9,5 @@
 developers android basics in kotlin: unit1-1 <br/>
 4일차 (22/08/12-18) <br/>
 developers android basics in kotlin: unit 1-2 </br>
-5일차 (22/08/20-) </br>
+5일차 (22/08/20,21) </br>
 developers android basics in kotlin: unit 1-3
